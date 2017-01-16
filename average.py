@@ -8,3 +8,4 @@ def average(numbers):
     return total / len(numbers)
 
 print average(L)
+
